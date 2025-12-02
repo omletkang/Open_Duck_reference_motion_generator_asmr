@@ -1,0 +1,14 @@
+{
+    "configuration": "default",
+    "documentId": "58c2381d89a2438a74b652f1",
+    "documentMicroversion": "f91e1174a7730c319b20a0d4",
+    "documentVersion": "223d9cbf76a8bd7bc9a431c4",
+    "elementId": "b90e4d5a371c3e242237f045",
+    "fullConfiguration": "default",
+    "id": "MN1CP4JcyjKso9IGq",
+    "isStandardContent": false,
+    "name": "Elbow_arm <1>",
+    "partId": "JFT",
+    "suppressed": false,
+    "type": "Part"
+}
